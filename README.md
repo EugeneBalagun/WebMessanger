@@ -2,12 +2,13 @@
 
 Веб-мессенджер с React + FastAPI + PostgreSQL + Docker.
 
-## 🚀 Быстрый старт
+
 
 # Клонируйте репозиторий
+```
 git clone https://github.com/EugeneBalagun/WebMessanger.git
 cd WebMessanger
-
+```
 # Запустите приложение
 docker-compose up --build
 Доступ после запуска:
