@@ -4,7 +4,6 @@
 
 ## 🚀 Быстрый старт
 
-```bash
 # Клонируйте репозиторий
 git clone https://github.com/EugeneBalagun/WebMessanger.git
 cd WebMessanger
