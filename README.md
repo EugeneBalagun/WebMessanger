@@ -48,7 +48,7 @@ backend - FastAPI приложение (порт 8000)
 db - PostgreSQL база данных (порт 5432)
 
 📁 Структура проекта
-text
+```
 WebMessanger/
 ├── backend/                 # FastAPI приложение
 │   ├── app/
@@ -63,6 +63,7 @@ WebMessanger/
 │   │   └── config.ts       # Конфигурация
 │   └── package.json        # Зависимости Node.js
 └── docker-compose.yml      # Docker конфигурация
+```
 📞 API эндпоинты
 Метод	Путь	Описание
 POST	/register	Регистрация пользователя
